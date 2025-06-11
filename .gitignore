@@ -2,3 +2,6 @@
 .txt
 .mp3
 appsettings.json
+appsettings.*.json
+
+
