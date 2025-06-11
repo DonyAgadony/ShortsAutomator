@@ -1,0 +1,164 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Handasat\\ShortsAutomator\\Now For Real.csproj": {}
+  },
+  "projects": {
+    "D:\\Handasat\\ShortsAutomator\\Now For Real.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Handasat\\ShortsAutomator\\Now For Real.csproj",
+        "projectName": "Now For Real",
+        "projectPath": "D:\\Handasat\\ShortsAutomator\\Now For Real.csproj",
+        "packagesPath": "C:\\Users\\donyb\\.nuget\\packages\\",
+        "outputPath": "D:\\Handasat\\ShortsAutomator\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\donyb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Google.Apis.Auth": {
+              "target": "Package",
+              "version": "[1.69.0, )"
+            },
+            "Google.Apis.YouTube.v3": {
+              "target": "Package",
+              "version": "[1.69.0.3680, )"
+            },
+            "HtmlAgilityPack": {
+              "target": "Package",
+              "version": "[1.11.72, )"
+            },
+            "Microsoft.CognitiveServices.Speech": {
+              "target": "Package",
+              "version": "[1.42.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "NAudio": {
+              "target": "Package",
+              "version": "[2.2.1, )"
+            },
+            "Newtonsoft.json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[112.1.0, )"
+            },
+            "Selenium.Support": {
+              "target": "Package",
+              "version": "[4.28.0, )"
+            },
+            "Serilog.Extensions.logging": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "SmorcIRL.TempMail": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Whisper.net": {
+              "target": "Package",
+              "version": "[1.7.4, )"
+            },
+            "Whisper.net.Runtime": {
+              "target": "Package",
+              "version": "[1.7.4, )"
+            },
+            "Whispernet": {
+              "target": "Package",
+              "version": "[1.12.0, )"
+            },
+            "assemblyAi": {
+              "target": "Package",
+              "version": "[1.2.2, )"
+            },
+            "ffmpegcore": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            },
+            "microsoft.extensions.configuration.json": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "naudio.lame": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "serilog": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
+            "serilog.sinks.console": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "serilog.sinks.file": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
